@@ -1,9 +1,9 @@
-# Simple_seckill
+# Seckill
 A simple high concurrency seckill system.
 
 ## 目录
 
-* [Simple\_seckill](#simple_seckill)
+* [Seckill](#simple_seckill)
   * [主要功能](#%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD)
   * [项目主要技术](#%E9%A1%B9%E7%9B%AE%E4%B8%BB%E8%A6%81%E6%8A%80%E6%9C%AF)
   * [数据库表设计](#%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A1%A8%E8%AE%BE%E8%AE%A1)
