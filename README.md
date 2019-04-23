@@ -37,7 +37,7 @@ A simple high concurrency seckill system.
 
 - 基于maven搭建
 - 采用SSM框架整合
-- Druid数据库连接池
+- c3p0数据库连接池
 - 基于注解的声明式事务
 - 前端bootstrap+jQuery
 - 模块化js
